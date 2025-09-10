@@ -6,10 +6,10 @@
 ---
 
 ## 🔧 Skills
-- **Languages & Frameworks:** Java, Spring Boot, Angular, Python, SQL, Javascript, Php  
+- **Languages & Frameworks:** Java, Spring Boot, Node.js, Angular, Python, SQL, Javascript, TypeScript, Php  
 - **Data & Cloud:** MySQL, Oracle, SQLServer  
-- **Tools:** Git, Gitlab, Docker, REST APIs  
-
+- **Tools:** Git, Gitlab, Github
+- **Outils:** IntelliJ IDEA, Visual Studio Code, Postman
 ---
 
 ## 📌 Projects
