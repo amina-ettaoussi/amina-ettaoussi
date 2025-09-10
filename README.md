@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Amina Ettaoussi
+🎓 Master Student in Computer Science | Big Data & Cloud Computing  
+💻 Fullstack Developer | Java Spring Boot & Angular  
+🌍 Based in Morocco | Languages: 🇫🇷 French | 🇬🇧 English | 🇲🇦 Arabic  
 
-<!--
-**amina-ettaoussi/amina-ettaoussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages & Frameworks:** Java, Spring Boot, Angular, Python, SQL, Javascript, Php  
+- **Data & Cloud:** MySQL, Oracle, SQLServer  
+- **Tools:** Git, Gitlab, Docker, REST APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Projects
+- **sushiman-site:** Html + Css + Javascript   
+
+---
+
+## 📬 Contact
+- ✉️ Email: amina@ettaoussi.com  
+- 💼 LinkedIn: [linkedin.com/in/amina-ettaoussi](https://linkedin.com/in/amina-ettaoussi)  
+- 📂 Portfolio: [amina-ettaoussi.me](https://amina-ettaoussi.me)  
